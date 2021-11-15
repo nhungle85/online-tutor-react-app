@@ -1,6 +1,8 @@
-import logo from './logo.svg';
 import { Route, Routes } from "react-router";
 import HomePage from "./components/HomePage";
+import "bootstrap/dist/css/bootstrap.min.css";
+import "typeface-lobster";
+import "typeface-open-sans";
 
 import "./App.css";
 function App() {

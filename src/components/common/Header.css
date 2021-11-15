@@ -1,0 +1,13 @@
+#site-header a {
+    color: rgba(11, 67, 219, 0.5);
+}
+#site-header h2 {
+    font-family: "Lobster", cursive;
+}
+
+.jumbotron {
+    margin: 0;
+    padding: 30px;
+    background-image: linear-gradient(to right, #439bfa, #007bff, rgba(11, 67, 219, 0.5));
+    color: #C9E265;
+}
