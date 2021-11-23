@@ -1,0 +1,7 @@
+.siteFooter {
+    background-image: linear-gradient(#007bff, white);
+    padding: 20px 0;
+  }
+.siteFooter__buttonLink {
+    padding: 0;
+}

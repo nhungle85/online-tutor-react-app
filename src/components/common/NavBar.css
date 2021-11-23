@@ -1,0 +1,9 @@
+.navbar {
+    background-color: #439bfa;
+    padding: 0;
+  }
+
+.navbar__dropdown > button {
+    background-color: none !important;
+    border-color: none !important;
+}
